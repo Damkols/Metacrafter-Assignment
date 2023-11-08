@@ -44,8 +44,13 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the mint and burn functions. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "mint" or "burn" function. Finally, click on the "transact" button to execute the function and modify the token's state.
 
-Authors
-@Damkols
+## Authors
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Metacrafter Chris  
+@Damkols
+[@kolsCode](https://twitter.com/kolsCode)
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
