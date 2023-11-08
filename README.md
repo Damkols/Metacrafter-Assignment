@@ -12,7 +12,7 @@ This program is a simple contract written in Solidity, a programming language us
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the [Remix website](https://remix.ethereum.org/).
 
-1. Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., MyToken.sol). Copy and paste the following code into the file:
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., MyToken.sol). Copy and paste the following code into the file:
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -48,6 +48,7 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 
 Metacrafter Chris  
 @Damkols
+
 [@kolsCode](https://twitter.com/kolsCode)
 
 
