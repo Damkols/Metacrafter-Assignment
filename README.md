@@ -48,7 +48,7 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 
 @Damkols
 
-[@kolsCode](https://twitter.com/kolsCode)
+[@kolsCode](https://twitter.com/kolsCodes)
 
 
 ## License
